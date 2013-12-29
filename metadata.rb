@@ -1,6 +1,6 @@
 name             'write-hello'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Pixelsonrails'
+maintainer_email 'max@synthmax.dk'
 license          'All rights reserved'
 description      'Installs/Configures write-hello'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
