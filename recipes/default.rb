@@ -10,6 +10,7 @@
 # Add additional locales
 
 bash "Add a hello-world text file" do
+  user "root"
   code <<-EOC
      touch hello-world.txt
      echo hello $user > hello-world.txt
